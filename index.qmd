@@ -1,5 +1,5 @@
 ---
-title: "E155 Portfolio"
+title: "Simone Strickland Yang"
 image: images/yosemite.jpeg
 about:
     template: jolla

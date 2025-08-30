@@ -1,5 +1,5 @@
 ---
-title: "Hello Quarto"
+title: "Initial Reflections"
 description: "I guess I have a Quarto portfolio now"
 author: "Simone Yang"
 date: "8/29/25"
@@ -8,3 +8,8 @@ categories:
   - labreport
 draft: false
 ---
+I have a lot of goals, generally, but at Mudd so far they have all been very course-based. A lot of complete-this-class and do-well-in-this-class goals. So for MicroPs this semester, my goal is to learn enough from these projects to create something for myself.
+
+I usually have a great time in my classes, but when I leave, that's where it ends. I hope to take what I learn here and actually use it in my life outside of college & work.
+
+The final project in this class seems like a great opportunity to do so. I want to do something challenging, but I also want to keep it when December rolls around. That's all!
