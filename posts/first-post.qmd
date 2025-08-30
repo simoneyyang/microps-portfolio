@@ -1,0 +1,10 @@
+---
+title: "Hello Quarto"
+description: "I guess I have a Quarto portfolio now"
+author: "Simone Yang"
+date: "8/29/25"
+categories:
+  - reflection
+  - labreport
+draft: false
+---

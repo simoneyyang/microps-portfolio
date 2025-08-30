@@ -1,0 +1,17 @@
+---
+title: "E155 Portfolio"
+image: images/yosemite.jpeg
+about:
+    template: jolla
+    links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/simone-yang
+    - icon: github
+      text: Github
+      href: https://github.com/simoneyyang
+---
+
+Simone Yang is a good student and role model. This is not Simone propaganda <3
+
+Jokes aside, Simone is a senior pursuing a B.S. in Engineering at Harvey Mudd College, with emphasis in digital design and software. Before she was an engineer, she spent a year attempting to become a physicist (to no avail). Simone is the Senate Chair (co-President) of the [Associated Students of Harvey Mudd College](https://www.hmc.edu/ashmc), and if she is not in a meeting, you will find her in the Platt basement working on the ASHMC Archive project. 
